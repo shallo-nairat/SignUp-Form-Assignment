@@ -1,0 +1,18 @@
+#table
+td {
+    border-collapse: collapse separate; 
+
+}
+th{
+    border-top: 3px solid rgb(2, 2, 2);
+    border-right:3px solid rgb(3, 3, 3) ;
+    border-left: 3px solid rgb(2, 2, );
+    border-bottom: 3px solid rgb(1,1,1);
+
+}
+td{
+    border-top: 3px solid rgb(2, 2, 2);
+    border-right:3px solid rgb(3, 3, 3) ;
+    border-left: 3px solid rgb(2, 2, 2);
+    border-bottom: 3px solid rgb(2, 2, 2);
+}
